@@ -6,7 +6,7 @@ I'm so excited to start using this platform as a coding portfolio!
 🕹️ My background: 
 
 I've been a student for nearly my entire life. Before I was a student, I was a 4-year-old Mario Kart champion. Nintendo games were a considerable chunk of my curriculum before kindergarten. 
-Instead of playing outside or with Barbie dolls, my hands were occupied by a Wii remote; if I had a chance to go back and change that, I wouldn't take it. I feel like that kind of exposure to technology and
+Instead of playing outside or with Barbie dolls, my hands were occupied by a Wii remote; if I had a chance to go back and change that, I wouldn't. I feel like that kind of exposure to technology and
 video games exercised my critical thinking at a very early age. They were mainly wholesome puzzle games that took strategy and patience. Little did I know that that brief yet crucial phase of my early development would 
 launch my learning ability and passion into a field of ever-increasing technological wonder.
 

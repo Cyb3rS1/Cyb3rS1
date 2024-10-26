@@ -1,7 +1,5 @@
                                                                                                                                                                                                                                                                      
-Welcome to my page!    
-
-I'm so excited to start using this platform as a coding portfolio! 
+✨ Welcome to my page! ✨ 
 
 🕹️ My background: 
 

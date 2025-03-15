@@ -22,26 +22,21 @@ I love digital art and technology! Toby Fox games like Undertale and Deltarune a
 - Undertale
 - Deltarune
 - OMORI
-- Doki Doki Literature Club
+- Minecraft
 - more to come!
 
 ✨ Hobbies I am interested in:
 
 - Sketching
-- Journaling
-- Coding
-- Personalization
 - Reading
-- Keyboard (piano)
 - Traveling
-- Learning Japanese
-- Baking
 - Graphic design
 - Building PCs
 - 3d Art Production
 - Video Game Design
+- Website development
 
 🤓 Fun facts:
 
-- Python is my favorite coding language :P
+- Python is the first coding language I learned and also my favorite!
 - I am an aspiring tech minimalist! Unfortunately, switching to a flip phone is easier said than done.
